@@ -19,4 +19,16 @@
   margin: 5px 10px;
 }
 
-.section-
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .section-gallery .row {
+    margin-bottom: 0;
+  }
+
+  .section-gallery .material-placeholder img {
+    margin-top: 10px;
+  }
+}
